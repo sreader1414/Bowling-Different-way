@@ -117,24 +117,3 @@ public class Main
         System.out.println("\nThe final score is: " + score);
     }// End main
 }// End class Main
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
